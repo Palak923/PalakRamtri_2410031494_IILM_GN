@@ -1,4 +1,4 @@
-# 1. Create Employee_master table with data using Employee table
+## 1. Create Employee_master table with data using Employee table
 
 ```sql
 CREATE TABLE employee_master AS
